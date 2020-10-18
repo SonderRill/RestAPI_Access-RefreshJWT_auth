@@ -1,0 +1,4 @@
+{
+    "jwtSecret": "secret",
+    "refreshTokenSecret": "refreshtokensecret"
+}
