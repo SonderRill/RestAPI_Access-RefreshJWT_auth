@@ -1,4 +1,4 @@
-# Test_Zimad
+# RestAPI_Access-RefreshJWT_auth
 
 запустить редис, настроить подключение к бд в config
 
